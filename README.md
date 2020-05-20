@@ -6,4 +6,4 @@ Ce skript à été concue pour un système de rangs sur votre serveur. Il vous p
 
 > ## Besoin d'aide ?
 
-Si tu as besoin d'aide je t'invite à rejoindre mon serveur Discord :p https://discord.gg/WBaugnW
+Si tu as besoin d'aide je t'invite à rejoindre mon serveur [Discord](https://discord.gg/WBaugnW) :p
