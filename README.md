@@ -6,10 +6,10 @@ Ce skript à été concue pour un système de rangs sur votre serveur. Il vous p
 
 > ## Commandes:
 
-`/rank` te dit ton grade
-`/rank <pseudo>` te dit le grade d'un joueur
-`/rank <pseudo> <rank>` donne le grade voulu au joueur *(Neccessite d'être OP ou d'avoir le grade ADMIN pour l'éxécuter)*
-`/helpop <message>` envoie un message à tous les joueurs ayant l'un des grades suivants : **BUILDER, ANIM, MOD, ADMIN**
+* `/rank` te dit ton grade
+* `/rank <pseudo>` te dit le grade d'un joueur
+* `/rank <pseudo> <rank>` donne le grade voulu au joueur *(Neccessite d'être OP ou d'avoir le grade ADMIN pour l'éxécuter)*
+* `/helpop <message>` envoie un message à tous les joueurs ayant l'un des grades suivants : **BUILDER, ANIM, MOD, ADMIN**
 
 > ## Besoin d'aide ?
 
